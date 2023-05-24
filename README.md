@@ -1,3 +1,3 @@
 # ExoGit
-Prenom Nom
+Prenom | Nom
 Andre Lanseman
